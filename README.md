@@ -46,4 +46,5 @@ This is a simple Bank Management System developed using C++ and Object-Oriented 
 ---
 
 ## 👩‍💻 Author
-- Your Name
+- Jidnyasa
+
